@@ -1,1 +1,2 @@
-import './js/app.js';
+import './js/matchers';
+import './js/pure-functions';
