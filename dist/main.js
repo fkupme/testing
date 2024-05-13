@@ -1,1 +1,0 @@
-(()=>{"use strict";console.log(showHealthStatus({name:"class",health:51}))})();

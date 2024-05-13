@@ -1,1 +1,0 @@
-import"./js/app.js";console.log(showHealthStatus({name:"class",health:51}));
