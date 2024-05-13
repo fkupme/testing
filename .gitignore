@@ -1,4 +1,3 @@
-/dist
-/coverage
+dist/
+coverage/
 node_modules/
-.yml
